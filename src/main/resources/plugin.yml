@@ -1,0 +1,11 @@
+name: Save the Animals Plugin
+
+main: com.reinhard.savetheanimals.Main
+
+description: If you hit an animal you get damaged
+
+version: '0.0.1'
+
+author: Bareinhard
+
+api: ['1.0.0']
